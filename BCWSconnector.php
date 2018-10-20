@@ -103,9 +103,9 @@ $consumer_secret = 'yoursecret';
 $action = 'sign_send';
 $postdata = null;
 $dbhost='localhost:3306';
-$dbuser='cache_usr';
-$dbpass='P4ssw0rd';
-$dbname='test_cache';
+$dbuser='youruser';
+$dbpass='yourpassword';
+$dbname='yourdb';
 
 /*
 ********************************************** CODICE ******************************************
